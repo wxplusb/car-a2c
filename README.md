@@ -11,7 +11,7 @@
 Advantage Actor Critic (A2C)
 
 ## Result
-Trained at a fixed distance, the car model can handle distances of any length.
+Trained at short distances, the car model can handle distances of any length.
 
 ## Notebooks
   1. [How to build a trajectory](trajectory.ipynb)
